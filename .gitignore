@@ -1,6 +1,6 @@
 out
 *.iml
 /jdbc
-.gitignore
-/.idea
+*.gitignore
+.idea
 
