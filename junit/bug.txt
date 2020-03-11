@@ -1,0 +1,9 @@
+div出现了异常
+异常出现的名称：ArithmeticException
+异常的原因：java.lang.ArithmeticException: / by zero
+==============
+nul出现了异常
+异常出现的名称：NullPointerException
+异常的原因：java.lang.NullPointerException
+==============
+本次出现了2次bug
