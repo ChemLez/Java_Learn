@@ -8,8 +8,8 @@
         <sex>女</sex>
     </student>
     <student number="s002">
-        <name>Jim</name>
-        <age>12</age>
+        <name id="1234lz">Jim</name>
+        <age>13</age>
         <sex>男</sex>
     </student>
 </students>
